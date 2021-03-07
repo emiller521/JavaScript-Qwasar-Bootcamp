@@ -1,6 +1,6 @@
 First part of coding is to create variable. Let's get started with an integer variable. What does it mean "integer variable?"
 
-In most languages different "types" are defined. What is a type?
+In most languages different "types" are defined. ****What is a type?****
 
 A good example is a letter is different from a number.
 
@@ -10,4 +10,19 @@ And before starting to code, we will have to visit another notion: script tag. I
 
 Enought talking!
 
-Complete the following code. Create a variable named: age with value 34.
+****CREATE A VARIABLE NAMED: 'AGE' WITH THE VALUE OF 34.****
+
+    age = xxxxxx;
+    
+****CREATE AN "index.html" FILE WITH THIS CONTENT:****
+
+    <!DOCTYPE html>
+    <html>
+        <body>
+        </body>
+        <script>
+          // Put your variable here
+        </script>
+    </html>
+    
+To display your page you will need a static html page renderer.
