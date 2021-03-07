@@ -1,6 +1,6 @@
 In our coding journey, one of the most useful skills we will have to train is debugging.
 
-What is debugging?
+****What is debugging?****
 
 
 Debugging is the process of finding and resolving defects or problems within a computer program that prevent correct operation of computer software or a system.
@@ -20,4 +20,8 @@ This is an abstract concept, technically if we have to translate: it's printing 
 
 Our assignment is: First step into debugging is printing, let's print something in Javascript
 
-Create an index.html with a script tag. This script tag will have a script tag which will execute a console.log("My first print");
+****CREATE AN "index.html" WITH A SCRIPT TAG.****
+
+****THIS SCRIPT WILL HAVE A SCRIPT TAG WHICH WILL EXECUTE:****
+
+    console.log("My first print");
