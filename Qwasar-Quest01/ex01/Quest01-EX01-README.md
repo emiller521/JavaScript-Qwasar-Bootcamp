@@ -24,3 +24,6 @@ The first versions of Mosaic and Netscape Navigator used the X11 color names as 
           </div>
         </body>
     </html>
+
+
+You will modify this page so the div box has a red (#FF0000) background.
