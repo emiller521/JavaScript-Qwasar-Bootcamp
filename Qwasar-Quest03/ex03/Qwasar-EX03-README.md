@@ -24,4 +24,4 @@ Implemente a function which return a number (7)
 
 Replace/Complete the following code. (XX is what you need to replace)
 
-To display your page you will need a static html page renderer
+To display your page you will need a ****Static HTML Page Renderer****
